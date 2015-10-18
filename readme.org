@@ -1,0 +1,6 @@
+#+title: cuckoo-vagrant prototype
+#+author: intelemetry
+
+* Setup instructions
+** $ vagrant up
+** $ vagrant provision
